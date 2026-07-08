@@ -1,6 +1,6 @@
 # 👋 Welcome to Aashish Kumar Saini's GitHub
 
-Hi! I'm **Aashish Kumar Saini**, a passionate developer and AI enthusiast from Alwar, Rajasthan. This GitHub is the home for my projects in **Artificial Intelligence**, **Natural Language Processing**, **Machine Learning**, and **Web Development**.
+Hi! I'm **Aashish Kumar Saini**, a passionate developer and AI enthusiast from Alwar, Rajasthan. This GitHub is the home for my projects in **RAG**, **AI Agents**, **AI Automations**, **Artificial Intelligence**, **Natural Language Processing**, **Machine Learning**, and **Web Development**.
 
 ---
 
@@ -17,8 +17,8 @@ Hi! I'm **Aashish Kumar Saini**, a passionate developer and AI enthusiast from A
 ## 🛠️ Skills at a Glance
 
 - **Languages**: Python, Java, C++, SQL  
-- **Libraries/Tools**: Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, Transformers, LangChain, BeautifulSoup, Flask, Django  
-- **Technologies**: LLMs, RAG, Embeddings, Vector Databases, Sentiment Analysis, News Summarization
+- **Libraries/Tools**: LangChain, LangGraph, CrewAI, MLflow, MCP, n8n, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, Transformers, LangChain, BeautifulSoup, Flask, Django  
+- **Technologies**: AI Agents, AI Automation, Agentic AI, AI Workflows, LLMs, RAG, Embeddings, Vector Databases, Sentiment Analysis, News Summarization
 
 ---
 
