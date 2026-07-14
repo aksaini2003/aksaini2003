@@ -1,42 +1,154 @@
-# 👋 Welcome to Aashish Kumar Saini's GitHub
+# 👋 Hi, I'm Aashish Kumar Saini
 
-Hi! I'm **Aashish Kumar Saini**, a passionate developer and AI enthusiast from Alwar, Rajasthan. This GitHub is the home for my projects in **RAG**, **AI Agents**, **AI Automations**, **Artificial Intelligence**, **Natural Language Processing**, **Machine Learning**, and **Web Development**.
+### AI Engineer | AI Automation Engineer | AI/ML Engineer
 
----
+I'm a Computer Science graduate from India passionate about building intelligent AI systems that automate real-world business processes.
 
-## 🔍 What You’ll Find Here
-
-- 🧠 Conversational AI systems (RAG-based)
-- 📊 Data science notebooks and ML models
-- 🕸️ Web scraping tools and automation scripts
-- 📦 Python utilities and experiments
-- 🎓 Research-based projects and academic work
+I specialize in developing **AI Agents, AI Automations, Retrieval-Augmented Generation (RAG) applications, LLM-powered systems, and Machine Learning solutions** using modern AI frameworks and automation platforms.
 
 ---
 
-## 🛠️ Skills at a Glance
+## 🚀 About Me
 
-- **Languages**: Python, Java, C++, SQL  
-- **Libraries/Tools**: LangChain, LangGraph, CrewAI, MLflow, MCP, n8n, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, Transformers, LangChain, BeautifulSoup, Flask, Django  
-- **Technologies**: AI Agents, AI Automation, Agentic AI, AI Workflows, LLMs, RAG, Embeddings, Vector Databases, Sentiment Analysis, News Summarization
-
----
-
-## 📘 About Me
-
-- 💬 I enjoy solving real-world problems with AI.
-- 🎯 I aim to build impactful and efficient systems using cutting-edge NLP techniques.
-- 🌱 Currently learning how to make AI systems more **personalized**, **relevant**, and **trustworthy**.
+- 🤖 Built **20+ production-ready AI Automation workflows** during my Machine Learning Internship.
+- 🧠 Passionate about Generative AI, Agentic AI, LLMs, and AI-powered business automation.
+- 🔍 Experienced in developing AI Agents with memory, tools, and multi-step reasoning.
+- ⚡ Love integrating APIs, databases, and AI models to automate repetitive workflows.
+- 🌱 Currently exploring Multi-Agent Systems, MCP, advanced RAG architectures, and Voice AI.
 
 ---
 
-## 🤝 Let's Connect
+# 💼 Tech Stack
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/aashish-kumar-saini-03946b296/)
-- 💼 [Portfolio Website](https://aashish-s-portfolio-wm56.vercel.app/)
-- 📬 Feel free to explore my repositories and open issues or suggestions!
+## Programming Languages
+
+- Python
+- C++
 
 ---
 
-⭐ If you like what you see, don’t forget to **star the repository**. Thanks for stopping by!
+## AI & Machine Learning
 
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Large Language Models (LLMs)
+- Prompt Engineering
+- Generative AI
+- Agentic AI
+
+---
+
+## AI Frameworks
+
+- LangChain
+- LangGraph
+- CrewAI
+- MCP (Model Context Protocol)
+- Hugging Face
+---
+
+## AI Automation
+
+- n8n
+- AI Workflow Automation
+- Email Automation
+- CRM Automation
+- API Automation
+- Web Automation
+- Social Media Automation
+- Lead Generation Automation
+
+---
+
+## Retrieval-Augmented Generation (RAG)
+
+- Semantic Search
+- Embeddings
+- Vector Search
+- Document Intelligence
+- Hybrid Search
+- Context Engineering
+
+---
+
+## Vector Databases
+
+- Pinecone
+- FAISS
+- Qdrant
+
+---
+
+## Backend Development
+
+- FastAPI
+- Django
+- REST APIs
+- Flask
+
+---
+
+## Databases
+
+- MySQL
+- SQLite
+- Supabase
+
+---
+
+## Data Science
+
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+---
+
+## Cloud & Tools
+
+- Git
+- GitHub
+- Postman
+- Docker (Basics)
+- MLflow
+- Streamlit
+- VS Code
+
+---
+
+# 📈 Currently Learning
+
+- Advanced Agentic AI
+- Multi-Agent Systems
+- Voice AI
+- MCP Servers
+- AI Infrastructure
+- LLM Optimization
+- Enterprise AI Automation
+
+---
+
+# 📫 Connect With Me
+
+🌐 **Portfolio**
+
+https://aashish-s-portfolio-wm56.vercel.app/
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/aashish-kumar-saini-03946b296/
+
+📧 Feel free to connect for collaborations, AI projects, or opportunities.
+
+---
+
+# ⚡ Fun Fact
+
+I enjoy transforming repetitive manual workflows into intelligent AI-powered automation systems that save time and improve productivity.
+
+---
+
+⭐ If you like my work, consider giving a ⭐ to my repositories. It motivates me to build more open-source AI projects!
